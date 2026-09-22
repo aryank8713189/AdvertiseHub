@@ -1,6 +1,6 @@
 import Container from "../layout/Container";
 import CategoryCard from "./CategoryCard";
-import { categories } from "@/constants/categories";
+import { categories } from "@/mock-data/categories";
 
 const CategorySection = () => {
   return (

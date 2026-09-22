@@ -1,6 +1,6 @@
 import Container from "../layout/Container";
 import AdvertisementCard from "../advertisement/AdvertisementCard";
-import { featuredAds } from "@/constants/featuredAds";
+import { featuredAds } from "@/mock-data/advertisements";
 
 const FeaturedAdvertisements = () => {
   return (
